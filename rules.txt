@@ -1,0 +1,5 @@
+Scope of the project(in order to prevent scope creep):
+-users: the player will play with the computer, and the cards of the dealer would be randomly generated. the program is able to have 1 user at most.
+-rules: the dealer would randomly pick cards. One of the cards will be shown to the player. The player will also be assigned a card. the following rule must apply(based on https://www.star.com.au/goldcoast/sites/default/files/Blackjack.pdf) :"The Dealer must draw on 16 or less, and stand on 17 or more"
+-notations: Jack, King, Queen, and Ace will be marked as J, K, Q and A respectively.
+-bank: the player will be assigned a desired amount of money at the beginning. For the purposes to make things easier, we assume the currency is US Dollar(United Slate Dollar[where everyone has a basic income and free health insurance])
